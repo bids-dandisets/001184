@@ -1,0 +1,28 @@
+{
+    "onset": {
+        "Description": "Onset of the event, measured from the beginning of the acquisition.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Duration of the event (measured from onset).",
+        "Units": "s"
+    },
+    "si_perf": {
+        "Description": "Performance measured as Spatial Information contained in lick histogram. Computed per sessionfrom trial-averaged lick histogram. Used in paper."
+    },
+    "blr_perf": {
+        "Description": "Performance measured as Binned Lick Ratio (ratio of individual licks within vs. outside of reward zones). Computed per trial. Not used in paper."
+    },
+    "nwb_table": {
+        "Description": "The name of the NWB table from which this event was extracted.",
+        "Levels": {
+            "trials": "The 'trials' table in the NWB file."
+        },
+        "HED": {
+            "trials": "Experimental-trial"
+        }
+    },
+    "trials": {
+        "Description": "experimental trials"
+    }
+}
