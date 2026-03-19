@@ -1,22 +1,22 @@
-participant_id	species	sex
-sub-108	Mus musculus	F
-sub-110	Mus musculus	F
-sub-111	Mus musculus	F
-sub-113	Mus musculus	F
-sub-114	Mus musculus	F
-sub-115	Mus musculus	F
-sub-116	Mus musculus	M
-sub-121	Mus musculus	F
-sub-122	Mus musculus	F
-sub-33	Mus musculus	M
-sub-41	Mus musculus	F
-sub-63	Mus musculus	F
-sub-69	Mus musculus	M
-sub-83	Mus musculus	F
-sub-85	Mus musculus	F
-sub-86	Mus musculus	F
-sub-89	Mus musculus	F
-sub-90	Mus musculus	F
-sub-91	Mus musculus	M
-sub-93	Mus musculus	M
-sub-95	Mus musculus	F
+participant_id	original_participant_id	species	sex
+sub-108	sub-108	Mus musculus	F
+sub-110	sub-110	Mus musculus	F
+sub-111	sub-111	Mus musculus	F
+sub-113	sub-113	Mus musculus	F
+sub-114	sub-114	Mus musculus	F
+sub-115	sub-115	Mus musculus	F
+sub-116	sub-116	Mus musculus	M
+sub-121	sub-121	Mus musculus	F
+sub-122	sub-122	Mus musculus	F
+sub-33	sub-33	Mus musculus	M
+sub-41	sub-41	Mus musculus	F
+sub-63	sub-63	Mus musculus	F
+sub-69	sub-69	Mus musculus	M
+sub-83	sub-83	Mus musculus	F
+sub-85	sub-85	Mus musculus	F
+sub-86	sub-86	Mus musculus	F
+sub-89	sub-89	Mus musculus	F
+sub-90	sub-90	Mus musculus	F
+sub-91	sub-91	Mus musculus	M
+sub-93	sub-93	Mus musculus	M
+sub-95	sub-95	Mus musculus	F
